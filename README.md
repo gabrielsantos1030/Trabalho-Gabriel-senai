@@ -42,3 +42,10 @@ CONFLICT (content): Merge conflict in index.txt
 $ git add index.txt
 $ git commit -m "Resolução de conflito entre main e feature1"
 $ git push
+
+Conclusão
+Durante a execução da atividade, foi possível compreender na prática a importância do controle de
+versão utilizando o Git e o GitHub. A criação de branches permitiu o desenvolvimento de
+alterações paralelas, enquanto o merge evidenciou a ocorrência de conflitos. A resolução manual
+do conflito consolidou as duas versões em um resultado final, reforçando a relevância da
+colaboração em projetos de software.
